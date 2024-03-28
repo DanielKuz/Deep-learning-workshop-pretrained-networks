@@ -12,4 +12,6 @@ This is a repositry for making the networks we were reading for the Deep learnin
 - [ ] LSTM
 - [ ] Transformers
 - [ ] RCNN
+
 And more to come
+All Networks will be done according to the paper only assuming same input as the paper.
